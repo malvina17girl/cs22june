@@ -1,0 +1,6 @@
+C:\Users\pro-12\Desktop\Анастасия пр7 НЕ УДАЛЯТЬ!!! С#\Практика по Csharp\ПР2 задача 01\bin\Debug\ПР2 задача 01.exe.config
+C:\Users\pro-12\Desktop\Анастасия пр7 НЕ УДАЛЯТЬ!!! С#\Практика по Csharp\ПР2 задача 01\bin\Debug\ПР2 задача 01.exe
+C:\Users\pro-12\Desktop\Анастасия пр7 НЕ УДАЛЯТЬ!!! С#\Практика по Csharp\ПР2 задача 01\bin\Debug\ПР2 задача 01.pdb
+C:\Users\pro-12\Desktop\Анастасия пр7 НЕ УДАЛЯТЬ!!! С#\Практика по Csharp\ПР2 задача 01\obj\Debug\ПР2 задача 01.csprojAssemblyReference.cache
+C:\Users\pro-12\Desktop\Анастасия пр7 НЕ УДАЛЯТЬ!!! С#\Практика по Csharp\ПР2 задача 01\obj\Debug\ПР2 задача 01.exe
+C:\Users\pro-12\Desktop\Анастасия пр7 НЕ УДАЛЯТЬ!!! С#\Практика по Csharp\ПР2 задача 01\obj\Debug\ПР2 задача 01.pdb

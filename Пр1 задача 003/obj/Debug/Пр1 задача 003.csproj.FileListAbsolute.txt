@@ -1,0 +1,8 @@
+C:\Users\Dell\Desktop\C#\Практика по Csharp\Пр1 задача 003\bin\Debug\Пр1 задача 003.exe.config
+C:\Users\Dell\Desktop\C#\Практика по Csharp\Пр1 задача 003\bin\Debug\Пр1 задача 003.exe
+C:\Users\Dell\Desktop\C#\Практика по Csharp\Пр1 задача 003\bin\Debug\Пр1 задача 003.pdb
+C:\Users\Dell\Desktop\C#\Практика по Csharp\Пр1 задача 003\obj\Debug\Пр1 задача 003.csproj.AssemblyReference.cache
+C:\Users\Dell\Desktop\C#\Практика по Csharp\Пр1 задача 003\obj\Debug\Пр1 задача 003.csproj.SuggestedBindingRedirects.cache
+C:\Users\Dell\Desktop\C#\Практика по Csharp\Пр1 задача 003\obj\Debug\Пр1 задача 003.csproj.CoreCompileInputs.cache
+C:\Users\Dell\Desktop\C#\Практика по Csharp\Пр1 задача 003\obj\Debug\Пр1 задача 003.exe
+C:\Users\Dell\Desktop\C#\Практика по Csharp\Пр1 задача 003\obj\Debug\Пр1 задача 003.pdb

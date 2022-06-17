@@ -1,0 +1,5 @@
+C:\Users\pro-12\Desktop\Анастасия пр7 НЕ УДАЛЯТЬ!!!\Практика по Csharp\Пр1 задача 05\bin\Debug\Пр1 задача 05.exe.config
+C:\Users\pro-12\Desktop\Анастасия пр7 НЕ УДАЛЯТЬ!!!\Практика по Csharp\Пр1 задача 05\bin\Debug\Пр1 задача 05.exe
+C:\Users\pro-12\Desktop\Анастасия пр7 НЕ УДАЛЯТЬ!!!\Практика по Csharp\Пр1 задача 05\bin\Debug\Пр1 задача 05.pdb
+C:\Users\pro-12\Desktop\Анастасия пр7 НЕ УДАЛЯТЬ!!!\Практика по Csharp\Пр1 задача 05\obj\Debug\Пр1 задача 05.exe
+C:\Users\pro-12\Desktop\Анастасия пр7 НЕ УДАЛЯТЬ!!!\Практика по Csharp\Пр1 задача 05\obj\Debug\Пр1 задача 05.pdb
