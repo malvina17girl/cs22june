@@ -1,0 +1,8 @@
+C:\Users\Dell\Desktop\C#\Практика по Csharp\Пр2 задача 13\bin\Debug\Пр2 задача 13.exe.config
+C:\Users\Dell\Desktop\C#\Практика по Csharp\Пр2 задача 13\bin\Debug\Пр2 задача 13.exe
+C:\Users\Dell\Desktop\C#\Практика по Csharp\Пр2 задача 13\bin\Debug\Пр2 задача 13.pdb
+C:\Users\Dell\Desktop\C#\Практика по Csharp\Пр2 задача 13\obj\Debug\Пр2 задача 13.csproj.AssemblyReference.cache
+C:\Users\Dell\Desktop\C#\Практика по Csharp\Пр2 задача 13\obj\Debug\Пр2 задача 13.csproj.SuggestedBindingRedirects.cache
+C:\Users\Dell\Desktop\C#\Практика по Csharp\Пр2 задача 13\obj\Debug\Пр2 задача 13.csproj.CoreCompileInputs.cache
+C:\Users\Dell\Desktop\C#\Практика по Csharp\Пр2 задача 13\obj\Debug\Пр2 задача 13.exe
+C:\Users\Dell\Desktop\C#\Практика по Csharp\Пр2 задача 13\obj\Debug\Пр2 задача 13.pdb

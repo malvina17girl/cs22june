@@ -1,0 +1,8 @@
+C:\Users\Dell\Desktop\C#\Практика по Csharp\Пр3 задача 18\bin\Debug\Пр3 задача 18.exe.config
+C:\Users\Dell\Desktop\C#\Практика по Csharp\Пр3 задача 18\bin\Debug\Пр3 задача 18.exe
+C:\Users\Dell\Desktop\C#\Практика по Csharp\Пр3 задача 18\bin\Debug\Пр3 задача 18.pdb
+C:\Users\Dell\Desktop\C#\Практика по Csharp\Пр3 задача 18\obj\Debug\Пр3 задача 18.csproj.AssemblyReference.cache
+C:\Users\Dell\Desktop\C#\Практика по Csharp\Пр3 задача 18\obj\Debug\Пр3 задача 18.csproj.SuggestedBindingRedirects.cache
+C:\Users\Dell\Desktop\C#\Практика по Csharp\Пр3 задача 18\obj\Debug\Пр3 задача 18.csproj.CoreCompileInputs.cache
+C:\Users\Dell\Desktop\C#\Практика по Csharp\Пр3 задача 18\obj\Debug\Пр3 задача 18.exe
+C:\Users\Dell\Desktop\C#\Практика по Csharp\Пр3 задача 18\obj\Debug\Пр3 задача 18.pdb
