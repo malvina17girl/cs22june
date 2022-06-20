@@ -6,3 +6,8 @@ C:\Users\Dell\Desktop\C#\Практика по Csharp\Пр3 задача 11\obj\
 C:\Users\Dell\Desktop\C#\Практика по Csharp\Пр3 задача 11\obj\Debug\Пр3 задача 11.csproj.CoreCompileInputs.cache
 C:\Users\Dell\Desktop\C#\Практика по Csharp\Пр3 задача 11\obj\Debug\Пр3 задача 11.exe
 C:\Users\Dell\Desktop\C#\Практика по Csharp\Пр3 задача 11\obj\Debug\Пр3 задача 11.pdb
+C:\Users\pro-12\Desktop\cs22june\Пр3 задача 11\bin\Debug\Пр3 задача 11.exe.config
+C:\Users\pro-12\Desktop\cs22june\Пр3 задача 11\bin\Debug\Пр3 задача 11.exe
+C:\Users\pro-12\Desktop\cs22june\Пр3 задача 11\bin\Debug\Пр3 задача 11.pdb
+C:\Users\pro-12\Desktop\cs22june\Пр3 задача 11\obj\Debug\Пр3 задача 11.exe
+C:\Users\pro-12\Desktop\cs22june\Пр3 задача 11\obj\Debug\Пр3 задача 11.pdb

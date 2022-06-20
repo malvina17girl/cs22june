@@ -75,43 +75,45 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Пр4 задача 11", "П
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Пр4 задача 15", "Пр4 задача 15\Пр4 задача 15.csproj", "{2F8CA5B7-0902-47F5-877C-AE6C34C1CCEC}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ПР2 задание 7", "..\Анастасия пр7 НЕ УДАЛЯТЬ!!! С#\Практика по Csharp\ПР2 задание 7\ПР2 задание 7.csproj", "{9D477C61-52C0-404F-A8B0-FAA11EFCD4A0}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Пр2 задача 8", "Пр2 задача 8\Пр2 задача 8.csproj", "{279667A2-279B-42F2-9EB4-A27EEF30B09E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Пр2 задача 9", "..\Анастасия пр7 НЕ УДАЛЯТЬ!!! С#\Практика по Csharp\Пр 2 задача 8\Пр2 задача 9.csproj", "{F97984E5-E025-4483-9352-A24F88549952}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ПР2 задание 7", "ПР2 задание 7\ПР2 задание 7.csproj", "{9D477C61-52C0-404F-A8B0-FAA11EFCD4A0}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Пр2 задача 8", "..\Анастасия пр7 НЕ УДАЛЯТЬ!!! С#\Практика по Csharp\Пр2 задача 8\Пр2 задача 8.csproj", "{279667A2-279B-42F2-9EB4-A27EEF30B09E}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Пр2 задача 10", "Пр2 задача 10\Пр2 задача 10.csproj", "{700E739E-F61B-4B04-B181-FC15AFE07938}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Пр2 задача 10", "..\Анастасия пр7 НЕ УДАЛЯТЬ!!! С#\Практика по Csharp\Пр2 задача 10\Пр2 задача 10.csproj", "{700E739E-F61B-4B04-B181-FC15AFE07938}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ПР2 задача 11", "ПР2 задача 11\ПР2 задача 11.csproj", "{1D0B848D-08B4-48EE-A20E-14F8752DC18E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ПР2 задача 11", "..\Анастасия пр7 НЕ УДАЛЯТЬ!!! С#\Практика по Csharp\ПР2 задача 11\ПР2 задача 11.csproj", "{1D0B848D-08B4-48EE-A20E-14F8752DC18E}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Пр2 задача 12", "Пр2 задача 12\Пр2 задача 12.csproj", "{A9A7DA0D-FD66-4616-8263-1092098B594D}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Пр2 задача 12", "..\Анастасия пр7 НЕ УДАЛЯТЬ!!! С#\Практика по Csharp\Пр2 задача 12\Пр2 задача 12.csproj", "{A9A7DA0D-FD66-4616-8263-1092098B594D}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Пр2 задача 13", "Пр2 задача 13\Пр2 задача 13.csproj", "{81BD72C2-F25D-4900-8B0F-29DFFBB78951}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Пр2 задача 13", "..\Анастасия пр7 НЕ УДАЛЯТЬ!!! С#\Практика по Csharp\Пр2 задача 13\Пр2 задача 13.csproj", "{81BD72C2-F25D-4900-8B0F-29DFFBB78951}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Пр2 задача 14", "Пр2 задача 14\Пр2 задача 14.csproj", "{B6D598AA-E439-4AC4-9867-9E67051081D5}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Пр2 задача 14", "..\Анастасия пр7 НЕ УДАЛЯТЬ!!! С#\Практика по Csharp\Пр2 задача 14\Пр2 задача 14.csproj", "{B6D598AA-E439-4AC4-9867-9E67051081D5}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Пр2 задача 15", "Пр2 задача 15\Пр2 задача 15.csproj", "{05DFD4CC-514E-4908-B787-ACEEC568EFB3}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Пр2 задача 15", "..\Анастасия пр7 НЕ УДАЛЯТЬ!!! С#\Практика по Csharp\Пр2 задача 15\Пр2 задача 15.csproj", "{05DFD4CC-514E-4908-B787-ACEEC568EFB3}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Пр3 задача 8", "Пр3 задача 8\Пр3 задача 8.csproj", "{48565CB0-C62C-4198-9231-86C8B46EC5E7}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Пр3 задача 8", "..\Анастасия пр7 НЕ УДАЛЯТЬ!!! С#\Практика по Csharp\Пр3 задача 8\Пр3 задача 8.csproj", "{48565CB0-C62C-4198-9231-86C8B46EC5E7}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Пр3 задача 9", "Пр3 задача 9\Пр3 задача 9.csproj", "{C1771FC7-3945-422B-A640-A115B928B8C8}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Пр3 задача 9", "..\Анастасия пр7 НЕ УДАЛЯТЬ!!! С#\Практика по Csharp\Пр3 задача 9\Пр3 задача 9.csproj", "{C1771FC7-3945-422B-A640-A115B928B8C8}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Пр3 задача 10", "Пр3 задача 10\Пр3 задача 10.csproj", "{E689DFE6-7CE8-43CC-9D67-76165503C376}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Пр3 задача 10", "..\Анастасия пр7 НЕ УДАЛЯТЬ!!! С#\Практика по Csharp\Пр3 задача 10\Пр3 задача 10.csproj", "{E689DFE6-7CE8-43CC-9D67-76165503C376}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Пр3 задача 11", "Пр3 задача 11\Пр3 задача 11.csproj", "{2F94C2FC-9393-4847-9EE5-81A216AFD0DB}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Пр3 задача 11", "..\Анастасия пр7 НЕ УДАЛЯТЬ!!! С#\Практика по Csharp\Пр3 задача 11\Пр3 задача 11.csproj", "{2F94C2FC-9393-4847-9EE5-81A216AFD0DB}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Пр3 задача 14", "Пр3 задача 14\Пр3 задача 14.csproj", "{4DB5E252-F30A-497C-A2CA-3678BFB252D8}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Пр3 задача 13", "..\Анастасия пр7 НЕ УДАЛЯТЬ!!! С#\Практика по Csharp\Пр3 задача 12\Пр3 задача 13.csproj", "{43C9F304-D5D5-4099-8213-B0395946EA5C}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Пр3 задача 16", "Пр3 задача 16\Пр3 задача 16.csproj", "{DFA4936C-9EBA-42DB-8E0A-07C5ADBAE65E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Пр3 задача 14", "..\Анастасия пр7 НЕ УДАЛЯТЬ!!! С#\Практика по Csharp\Пр3 задача 14\Пр3 задача 14.csproj", "{4DB5E252-F30A-497C-A2CA-3678BFB252D8}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Пр3 задача 18", "Пр3 задача 18\Пр3 задача 18.csproj", "{7D52835D-0960-4292-8384-D81A8B8CA1A7}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Пр3 задача 16", "..\Анастасия пр7 НЕ УДАЛЯТЬ!!! С#\Практика по Csharp\Пр3 задача 16\Пр3 задача 16.csproj", "{DFA4936C-9EBA-42DB-8E0A-07C5ADBAE65E}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Пр3 задача 20", "Пр3 задача 20\Пр3 задача 20.csproj", "{98692C0C-A1A6-4D6C-B65E-6B4BE00CBAFF}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Пр3 задача 18", "..\Анастасия пр7 НЕ УДАЛЯТЬ!!! С#\Практика по Csharp\Пр3 задача 18\Пр3 задача 18.csproj", "{7D52835D-0960-4292-8384-D81A8B8CA1A7}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Пр3 задача 21", "Пр3 задача 21\Пр3 задача 21.csproj", "{884DEA77-EA85-421D-9C78-5A973291DC3B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Пр3 задача 20", "..\Анастасия пр7 НЕ УДАЛЯТЬ!!! С#\Практика по Csharp\Пр3 задача 20\Пр3 задача 20.csproj", "{98692C0C-A1A6-4D6C-B65E-6B4BE00CBAFF}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Пр4 задача 5", "Пр4 задача 5\Пр4 задача 5.csproj", "{8118B515-0E6B-46F7-9F51-FA2E5F3799F4}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Пр3 задача 21", "..\Анастасия пр7 НЕ УДАЛЯТЬ!!! С#\Практика по Csharp\Пр3 задача 21\Пр3 задача 21.csproj", "{884DEA77-EA85-421D-9C78-5A973291DC3B}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Пр4 задача 7", "Пр4 задача 7\Пр4 задача 7.csproj", "{7FCE3D46-FA2D-4629-B43D-C1D03DB420B3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ПР5 задача 3", "ПР5 задача 3\ПР5 задача 3.csproj", "{8BFE98FA-FA4B-4E6E-AC3B-F5CF275BD1E5}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -263,18 +265,14 @@ Global
 		{2F8CA5B7-0902-47F5-877C-AE6C34C1CCEC}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{2F8CA5B7-0902-47F5-877C-AE6C34C1CCEC}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{2F8CA5B7-0902-47F5-877C-AE6C34C1CCEC}.Release|Any CPU.Build.0 = Release|Any CPU
-		{9D477C61-52C0-404F-A8B0-FAA11EFCD4A0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{9D477C61-52C0-404F-A8B0-FAA11EFCD4A0}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{9D477C61-52C0-404F-A8B0-FAA11EFCD4A0}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{9D477C61-52C0-404F-A8B0-FAA11EFCD4A0}.Release|Any CPU.Build.0 = Release|Any CPU
-		{F97984E5-E025-4483-9352-A24F88549952}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{F97984E5-E025-4483-9352-A24F88549952}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{F97984E5-E025-4483-9352-A24F88549952}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{F97984E5-E025-4483-9352-A24F88549952}.Release|Any CPU.Build.0 = Release|Any CPU
 		{279667A2-279B-42F2-9EB4-A27EEF30B09E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{279667A2-279B-42F2-9EB4-A27EEF30B09E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{279667A2-279B-42F2-9EB4-A27EEF30B09E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{279667A2-279B-42F2-9EB4-A27EEF30B09E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9D477C61-52C0-404F-A8B0-FAA11EFCD4A0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9D477C61-52C0-404F-A8B0-FAA11EFCD4A0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9D477C61-52C0-404F-A8B0-FAA11EFCD4A0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9D477C61-52C0-404F-A8B0-FAA11EFCD4A0}.Release|Any CPU.Build.0 = Release|Any CPU
 		{700E739E-F61B-4B04-B181-FC15AFE07938}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{700E739E-F61B-4B04-B181-FC15AFE07938}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{700E739E-F61B-4B04-B181-FC15AFE07938}.Release|Any CPU.ActiveCfg = Release|Any CPU
@@ -315,10 +313,6 @@ Global
 		{2F94C2FC-9393-4847-9EE5-81A216AFD0DB}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{2F94C2FC-9393-4847-9EE5-81A216AFD0DB}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{2F94C2FC-9393-4847-9EE5-81A216AFD0DB}.Release|Any CPU.Build.0 = Release|Any CPU
-		{43C9F304-D5D5-4099-8213-B0395946EA5C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{43C9F304-D5D5-4099-8213-B0395946EA5C}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{43C9F304-D5D5-4099-8213-B0395946EA5C}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{43C9F304-D5D5-4099-8213-B0395946EA5C}.Release|Any CPU.Build.0 = Release|Any CPU
 		{4DB5E252-F30A-497C-A2CA-3678BFB252D8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{4DB5E252-F30A-497C-A2CA-3678BFB252D8}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{4DB5E252-F30A-497C-A2CA-3678BFB252D8}.Release|Any CPU.ActiveCfg = Release|Any CPU
@@ -339,6 +333,18 @@ Global
 		{884DEA77-EA85-421D-9C78-5A973291DC3B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{884DEA77-EA85-421D-9C78-5A973291DC3B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{884DEA77-EA85-421D-9C78-5A973291DC3B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8118B515-0E6B-46F7-9F51-FA2E5F3799F4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8118B515-0E6B-46F7-9F51-FA2E5F3799F4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8118B515-0E6B-46F7-9F51-FA2E5F3799F4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8118B515-0E6B-46F7-9F51-FA2E5F3799F4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7FCE3D46-FA2D-4629-B43D-C1D03DB420B3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7FCE3D46-FA2D-4629-B43D-C1D03DB420B3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7FCE3D46-FA2D-4629-B43D-C1D03DB420B3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7FCE3D46-FA2D-4629-B43D-C1D03DB420B3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8BFE98FA-FA4B-4E6E-AC3B-F5CF275BD1E5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8BFE98FA-FA4B-4E6E-AC3B-F5CF275BD1E5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8BFE98FA-FA4B-4E6E-AC3B-F5CF275BD1E5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8BFE98FA-FA4B-4E6E-AC3B-F5CF275BD1E5}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

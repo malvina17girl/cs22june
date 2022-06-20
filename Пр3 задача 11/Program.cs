@@ -44,7 +44,7 @@ namespace Пр3_задача_11
 
             double angle;
             double N;
-            N = product / amod * bmod;
+            N = product / (amod * bmod);
 
          
 
@@ -55,7 +55,7 @@ namespace Пр3_задача_11
             Console.WriteLine("модуль вектора А {0:F4}", amod);
             Console.WriteLine("модуль вектора B {0:F4}", bmod);
             Console.WriteLine("Скалярное произведение векторов = {0:F4}", product);
-            Console.WriteLine(" = {0:F4}", angle);
+            Console.WriteLine(" = {0:F4}", result);
 
         }
     }

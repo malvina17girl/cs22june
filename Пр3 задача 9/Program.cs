@@ -22,8 +22,15 @@ namespace Пр3_задача_9
             double Y;
             Y = double.Parse(y);
 
+            if (Y < 0)
+            {
 
-            if (X + Math.Sqrt(Y) <= 0)
+                Console.WriteLine("Подкоренное выражение должно быть неотрицательным");
+                return; //завершить работу прогр
+            }
+
+
+            if (X + Math.Sqrt(Y) < 0)
             {
 
                 Console.WriteLine("Подкоренное выражение должно быть неотрицательным");
