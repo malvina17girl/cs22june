@@ -1,0 +1,8 @@
+C:\Users\Dell\source\repos\Пр4 задание 3\Пр4 задание 3\bin\Debug\Пр4 задание 3.exe.config
+C:\Users\Dell\source\repos\Пр4 задание 3\Пр4 задание 3\bin\Debug\Пр4 задание 3.exe
+C:\Users\Dell\source\repos\Пр4 задание 3\Пр4 задание 3\bin\Debug\Пр4 задание 3.pdb
+C:\Users\Dell\source\repos\Пр4 задание 3\Пр4 задание 3\obj\Debug\Пр4 задание 3.csproj.AssemblyReference.cache
+C:\Users\Dell\source\repos\Пр4 задание 3\Пр4 задание 3\obj\Debug\Пр4 задание 3.csproj.SuggestedBindingRedirects.cache
+C:\Users\Dell\source\repos\Пр4 задание 3\Пр4 задание 3\obj\Debug\Пр4 задание 3.csproj.CoreCompileInputs.cache
+C:\Users\Dell\source\repos\Пр4 задание 3\Пр4 задание 3\obj\Debug\Пр4 задание 3.exe
+C:\Users\Dell\source\repos\Пр4 задание 3\Пр4 задание 3\obj\Debug\Пр4 задание 3.pdb
