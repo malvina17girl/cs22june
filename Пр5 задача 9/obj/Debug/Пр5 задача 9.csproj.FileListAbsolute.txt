@@ -1,0 +1,8 @@
+C:\Users\Dell\Desktop\C#\23.06\Пр4 задание 3\Пр5 задача 9\bin\Debug\Задача 5.9.exe.config
+C:\Users\Dell\Desktop\C#\23.06\Пр4 задание 3\Пр5 задача 9\bin\Debug\Задача 5.9.exe
+C:\Users\Dell\Desktop\C#\23.06\Пр4 задание 3\Пр5 задача 9\bin\Debug\Задача 5.9.pdb
+C:\Users\Dell\Desktop\C#\23.06\Пр4 задание 3\Пр5 задача 9\obj\Debug\Пр5 задача 9.csproj.AssemblyReference.cache
+C:\Users\Dell\Desktop\C#\23.06\Пр4 задание 3\Пр5 задача 9\obj\Debug\Пр5 задача 9.csproj.SuggestedBindingRedirects.cache
+C:\Users\Dell\Desktop\C#\23.06\Пр4 задание 3\Пр5 задача 9\obj\Debug\Пр5 задача 9.csproj.CoreCompileInputs.cache
+C:\Users\Dell\Desktop\C#\23.06\Пр4 задание 3\Пр5 задача 9\obj\Debug\Задача 5.9.exe
+C:\Users\Dell\Desktop\C#\23.06\Пр4 задание 3\Пр5 задача 9\obj\Debug\Задача 5.9.pdb

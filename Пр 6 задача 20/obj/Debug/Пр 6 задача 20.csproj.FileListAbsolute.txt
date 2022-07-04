@@ -1,0 +1,8 @@
+C:\Users\Dell\Desktop\C#\23.06\Пр4 задание 3\Пр 6 задача 20\bin\Debug\Задача 6.19.exe.config
+C:\Users\Dell\Desktop\C#\23.06\Пр4 задание 3\Пр 6 задача 20\bin\Debug\Задача 6.19.exe
+C:\Users\Dell\Desktop\C#\23.06\Пр4 задание 3\Пр 6 задача 20\bin\Debug\Задача 6.19.pdb
+C:\Users\Dell\Desktop\C#\23.06\Пр4 задание 3\Пр 6 задача 20\obj\Debug\Пр 6 задача 20.csproj.AssemblyReference.cache
+C:\Users\Dell\Desktop\C#\23.06\Пр4 задание 3\Пр 6 задача 20\obj\Debug\Пр 6 задача 20.csproj.SuggestedBindingRedirects.cache
+C:\Users\Dell\Desktop\C#\23.06\Пр4 задание 3\Пр 6 задача 20\obj\Debug\Пр 6 задача 20.csproj.CoreCompileInputs.cache
+C:\Users\Dell\Desktop\C#\23.06\Пр4 задание 3\Пр 6 задача 20\obj\Debug\Задача 6.19.exe
+C:\Users\Dell\Desktop\C#\23.06\Пр4 задание 3\Пр 6 задача 20\obj\Debug\Задача 6.19.pdb

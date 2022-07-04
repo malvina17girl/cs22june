@@ -1,0 +1,5 @@
+C:\Users\pro-12\Desktop\cs21december\Задача 6.14\bin\Debug\Задача 6.14.exe.config
+C:\Users\pro-12\Desktop\cs21december\Задача 6.14\bin\Debug\Задача 6.14.exe
+C:\Users\pro-12\Desktop\cs21december\Задача 6.14\bin\Debug\Задача 6.14.pdb
+C:\Users\pro-12\Desktop\cs21december\Задача 6.14\obj\Debug\Задача 6.14.exe
+C:\Users\pro-12\Desktop\cs21december\Задача 6.14\obj\Debug\Задача 6.14.pdb

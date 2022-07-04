@@ -1,0 +1,6 @@
+C:\Users\pro-12\Desktop\cs21december\Задача 6.18\bin\Debug\Задача 6.18.exe.config
+C:\Users\pro-12\Desktop\cs21december\Задача 6.18\bin\Debug\Задача 6.18.exe
+C:\Users\pro-12\Desktop\cs21december\Задача 6.18\bin\Debug\Задача 6.18.pdb
+C:\Users\pro-12\Desktop\cs21december\Задача 6.18\obj\Debug\Задача 6.18.csprojAssemblyReference.cache
+C:\Users\pro-12\Desktop\cs21december\Задача 6.18\obj\Debug\Задача 6.18.exe
+C:\Users\pro-12\Desktop\cs21december\Задача 6.18\obj\Debug\Задача 6.18.pdb
