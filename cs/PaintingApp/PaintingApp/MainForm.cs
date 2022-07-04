@@ -19,19 +19,19 @@ namespace PaintingApp
             p.down();
             p.right();
             p.startLine();
-            for (int i = 0; i < 5; i++)
+            for (int i = 0; i < 6; i++)
             {
                 p.right();
             }
-            for (int i = 0; i < 5; i++)
+            for (int i = 0; i < 6; i++)
             {
                 p.down();
             }
-            for (int i = 0; i < 5; i++)
+            for (int i = 0; i < 6; i++)
             {
                 p.left();
             }
-            for (int i = 0; i < 5; i++)
+            for (int i = 0; i < 6; i++)
             {
                 p.up();
             }

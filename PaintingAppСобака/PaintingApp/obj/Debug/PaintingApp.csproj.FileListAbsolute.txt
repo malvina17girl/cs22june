@@ -1,0 +1,16 @@
+C:\Users\pro-12\Desktop\cs22june\cs\PaintingApp\PaintingApp\bin\Debug\PaintingApp.exe.config
+C:\Users\pro-12\Desktop\cs22june\cs\PaintingApp\PaintingApp\bin\Debug\PaintingApp.exe
+C:\Users\pro-12\Desktop\cs22june\cs\PaintingApp\PaintingApp\bin\Debug\PaintingApp.pdb
+C:\Users\pro-12\Desktop\cs22june\cs\PaintingApp\PaintingApp\obj\Debug\PaintingApp.csprojAssemblyReference.cache
+C:\Users\pro-12\Desktop\cs22june\cs\PaintingApp\PaintingApp\obj\Debug\PaintingApp.Properties.Resources.resources
+C:\Users\pro-12\Desktop\cs22june\cs\PaintingApp\PaintingApp\obj\Debug\PaintingApp.csproj.GenerateResource.cache
+C:\Users\pro-12\Desktop\cs22june\cs\PaintingApp\PaintingApp\obj\Debug\PaintingApp.exe
+C:\Users\pro-12\Desktop\cs22june\cs\PaintingApp\PaintingApp\obj\Debug\PaintingApp.pdb
+C:\Users\pro-12\Desktop\cs22june\PaintingAppСобака\PaintingApp\obj\Debug\PaintingApp.csprojAssemblyReference.cache
+C:\Users\pro-12\Desktop\cs22june\PaintingAppСобака\PaintingApp\obj\Debug\PaintingApp.Properties.Resources.resources
+C:\Users\pro-12\Desktop\cs22june\PaintingAppСобака\PaintingApp\obj\Debug\PaintingApp.csproj.GenerateResource.cache
+C:\Users\pro-12\Desktop\cs22june\PaintingAppСобака\PaintingApp\obj\Debug\PaintingApp.exe
+C:\Users\pro-12\Desktop\cs22june\PaintingAppСобака\PaintingApp\obj\Debug\PaintingApp.pdb
+C:\Users\pro-12\Desktop\cs22june\PaintingAppСобака\PaintingApp\bin\Debug\PaintingApp.exe.config
+C:\Users\pro-12\Desktop\cs22june\PaintingAppСобака\PaintingApp\bin\Debug\PaintingApp.exe
+C:\Users\pro-12\Desktop\cs22june\PaintingAppСобака\PaintingApp\bin\Debug\PaintingApp.pdb
