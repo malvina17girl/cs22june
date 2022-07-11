@@ -12,56 +12,100 @@ namespace Пр_6_задача_28
         {
             int a, b, i, j;
             Console.Write("Введите число A ");
-            a= int.Parse(Console.ReadLine());
+            a = int.Parse(Console.ReadLine());
             Console.Write("Введите число B ");
             b = int.Parse(Console.ReadLine());
             i = 0;
             j = 0;
 
 
-
             if (a < 0)
             {
                 Console.WriteLine("Значение A должно быть неотрицательным");
+                return;
             }
             if (b < 0)
             {
                 Console.WriteLine("Значение B должно быть неотрицательным");
+                return;
             }
-            
-            while (i<=a)
+            //if (i <= a && j <= b)
             {
-                Console.WriteLine("{0}", i);
-                i++;
+                while (i <= a || j <= b)
+                {
+                    if (i <= a && j <= b)
+                    {
+                        Console.WriteLine("{0}\t{1}", i, j);
+                        i++;
+
+                        j++;
+                    }
+
+
+                    if (j > b && i <= a)
+                        {
+                            Console.WriteLine("" + i);
+                            i++;
+                        }
+
+
+
+                        if (j <= b && i>a)
+                        {
+                            Console.WriteLine("\t" + j);
+                            j++;
+                        }
+                    
+                }
+
             }
-            while (j <= b)
-            {
-                Console.WriteLine("{0}", j);
-                j++;
-            }
-
-
-
-
-
-           // for (int i = 0; i <= n; i++)
-           //for (int j = 0; j <= m; j++)
-                   
-           //{
-           //    Console.WriteLine("{0}\t{1}", i, j);
-          // }
-            //{
-            //Console.WriteLine("{0}", i);
-            // }
-            //Console.Write("\t");
-
-            //{
-            // Console.WriteLine("{0}", j);
-            // }
-            
         }
+
     }
 }
+
+
+                //else
+                //{
+                //   Console.WriteLine("");
+                //}
+            
+
+            
+            
+
+
+            //while (i <= a)
+            //{
+
+
+                //    Console.WriteLine("{0}", i);
+                //   i++;
+                // }
+                //  while (j <= b)
+                // {
+                //    Console.WriteLine("{0}", j);
+                //    j++;
+                //}
+
+                //for (int i = 0; i <= a; i++)
+                //for (int j = 0; j <= b; j++)
+
+                //{
+                //    Console.WriteLine("{0}\t{1}", i, j);
+                //}
+                //{
+                //Console.WriteLine("{0}", i);
+                // }
+                //Console.Write("\t");
+
+                //{
+                // Console.WriteLine("{0}", j);
+                // }
+
+            
+        
+
 
                 //if (b == m)
                 //{

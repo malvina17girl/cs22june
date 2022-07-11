@@ -10,27 +10,28 @@ namespace Пр_6_задача_24
     {
         static void Main(string[] args)
         {
-            int a;
+            int a,n,t;
             Console.Write("Введите число: ");
             a = int.Parse(Console.ReadLine());
+            n = 0;
+            t= 0;
             if (a < 0)
             {
                 Console.WriteLine("Введенное значение должно быть неотрицательным");
                 return; //завершить работу прогр;
             }
-            if (a <= 20)
+            while (a >n)
             {
-                for (int i = 0; i < a; i++)
-                    Console.Write("#");
-                Console.ReadKey();
-            }
-            if (a > 20)
-            {
-                int b;
-                b = 20;
-                for (int i = 0; i < b; b--)
+                n++;
+                Console.Write("#", n);
 
-                    Console.Write("*");
+            }
+            if (t==19)
+            {
+                t = 0;
+                Console.Write("#\n");
+
+               
 
             }
 
