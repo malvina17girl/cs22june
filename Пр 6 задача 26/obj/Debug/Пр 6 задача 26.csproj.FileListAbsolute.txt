@@ -1,0 +1,8 @@
+C:\Users\Dell\source\repos\ConsoleApp1\Пр 6 задача 26\bin\Debug\Пр 6 задача 26.exe.config
+C:\Users\Dell\source\repos\ConsoleApp1\Пр 6 задача 26\bin\Debug\Пр 6 задача 26.exe
+C:\Users\Dell\source\repos\ConsoleApp1\Пр 6 задача 26\bin\Debug\Пр 6 задача 26.pdb
+C:\Users\Dell\source\repos\ConsoleApp1\Пр 6 задача 26\obj\Debug\Пр 6 задача 26.csproj.AssemblyReference.cache
+C:\Users\Dell\source\repos\ConsoleApp1\Пр 6 задача 26\obj\Debug\Пр 6 задача 26.csproj.SuggestedBindingRedirects.cache
+C:\Users\Dell\source\repos\ConsoleApp1\Пр 6 задача 26\obj\Debug\Пр 6 задача 26.csproj.CoreCompileInputs.cache
+C:\Users\Dell\source\repos\ConsoleApp1\Пр 6 задача 26\obj\Debug\Пр 6 задача 26.exe
+C:\Users\Dell\source\repos\ConsoleApp1\Пр 6 задача 26\obj\Debug\Пр 6 задача 26.pdb
