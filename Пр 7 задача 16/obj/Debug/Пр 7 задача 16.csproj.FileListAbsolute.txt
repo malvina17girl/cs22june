@@ -1,0 +1,8 @@
+C:\Users\Dell\source\repos\C#\14.07\Пр 7 задача 16\obj\Debug\Пр 7 задача 16.csproj.AssemblyReference.cache
+C:\Users\Dell\source\repos\C#\14.07\Пр 7 задача 16\obj\Debug\Пр 7 задача 16.csproj.SuggestedBindingRedirects.cache
+C:\Users\Dell\source\repos\C#\14.07\Пр 7 задача 16\obj\Debug\Пр 7 задача 16.csproj.CoreCompileInputs.cache
+C:\Users\Dell\source\repos\C#\14.07\Пр 7 задача 16\bin\Debug\Пр 7 задача 16.exe.config
+C:\Users\Dell\source\repos\C#\14.07\Пр 7 задача 16\bin\Debug\Пр 7 задача 16.exe
+C:\Users\Dell\source\repos\C#\14.07\Пр 7 задача 16\bin\Debug\Пр 7 задача 16.pdb
+C:\Users\Dell\source\repos\C#\14.07\Пр 7 задача 16\obj\Debug\Пр 7 задача 16.exe
+C:\Users\Dell\source\repos\C#\14.07\Пр 7 задача 16\obj\Debug\Пр 7 задача 16.pdb

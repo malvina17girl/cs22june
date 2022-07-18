@@ -10,20 +10,96 @@ namespace Пр_7_задача_7
     {
         static void Main(string[] args)
         {
-            int w,h,a,b;
-            Console.Write("Введите число: ");
+            int w, h, b, c;
+            Console.Write("Введите символ: ");
+            string a = Console.ReadLine();
+            Console.Write("Введите ширину: ");
             w = int.Parse(Console.ReadLine());
-            Console.Write("Введите число: ");
+            Console.Write("Введите высоту: ");
             h = int.Parse(Console.ReadLine());
-            a = 0;
-            b = 0;
-        
-            while (w > a)
-            {
-                Console.Write("#",h);
-                a++;
-            }
+
             
+           
+
+            if (w<0||h<0)
+            {
+                Console.WriteLine("Значение не может быть отриц");
+                return;
+            }
+
+            for (b = 0; b < h; b++)
+            {
+                for (c = 0; c < w; c++)
+                {
+                    Console.Write(a);
+                }
+                Console.WriteLine();
+            }
+
+
+
+
+            //while (w > a)
+            //{
+            //    Console.Write(c);
+            //    a++;
+
+            //}
+            //b += 1;
+            //if (a == w)
+            //{
+            //    a = 0;
+            //}
+            //Console.WriteLine();
+            //while (w > a)
+            //{
+            //    Console.Write(b);
+            //    a++;
+
+            //}
+            //b += 1;
+            //if (a == w)
+            //{
+            //    a = 0;
+            //}
+            //Console.WriteLine();
+            //while (w > a)
+            //{
+            //    Console.Write(b);
+            //    a++;
+
+            //}
+            //b += 1;
+            //if (a == w)
+            //{
+            //    a = 0;
+            //}
+            //Console.WriteLine();
+            //while (w > a)
+            //{
+            //    Console.Write(b);
+            //    a++;
+
+            //}
+            //b += 1;
+            //if (a == w)
+            //{
+            //    a = 0;
+            //}
+            //Console.WriteLine();
+            //while (w > a)
+            //{
+            //    Console.Write(b);
+            //    a++;
+
+            //}
+            //b += 1;
+            //if (a == w)
+            //{
+            //    a = 0;
+            //}
+            //Console.WriteLine();
+
         }
     }
 }

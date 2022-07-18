@@ -31,14 +31,14 @@ namespace Пр_7_задача_1
             while (a >t)
             {
                 t++;
-                Console.Write("#", t);
+                Console.Write("#");
 
             }
             Console.WriteLine();
             while (n>k)
             {
                 k++;
-                Console.Write("#",k);
+                Console.Write("#");
 
 
 
