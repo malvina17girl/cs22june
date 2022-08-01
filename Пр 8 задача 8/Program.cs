@@ -17,19 +17,18 @@ namespace Пр_8_задача_8
                 return;
             }
 
-            int i = 0;
-            int a = 0;
+            
 
             String[] arr = data.Split(',');
-
-
-            while (i >= arr.Length - 1)
+            Array.Reverse(arr);
+            for (int i = 0; i<arr.Length; i++)
             {
-                Console.Write(arr[a]);
-                
-              
-                a--;
+
+                Console.Write("{0} ", arr[i]);
             }
+
+            
         }
     }
 }
+

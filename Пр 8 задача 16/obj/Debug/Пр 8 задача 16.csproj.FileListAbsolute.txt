@@ -1,0 +1,6 @@
+C:\Users\pro-12\Desktop\cs22june\Пр 8 задача 16\bin\Debug\Пр 8 задача 16.exe.config
+C:\Users\pro-12\Desktop\cs22june\Пр 8 задача 16\bin\Debug\Пр 8 задача 16.exe
+C:\Users\pro-12\Desktop\cs22june\Пр 8 задача 16\bin\Debug\Пр 8 задача 16.pdb
+C:\Users\pro-12\Desktop\cs22june\Пр 8 задача 16\obj\Debug\Пр 8 задача 16.csprojAssemblyReference.cache
+C:\Users\pro-12\Desktop\cs22june\Пр 8 задача 16\obj\Debug\Пр 8 задача 16.exe
+C:\Users\pro-12\Desktop\cs22june\Пр 8 задача 16\obj\Debug\Пр 8 задача 16.pdb

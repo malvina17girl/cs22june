@@ -1,0 +1,5 @@
+C:\Users\pro-12\Desktop\cs22june\Пр 9 задача 1\bin\Debug\Пр 9 задача 1.exe.config
+C:\Users\pro-12\Desktop\cs22june\Пр 9 задача 1\bin\Debug\Пр 9 задача 1.exe
+C:\Users\pro-12\Desktop\cs22june\Пр 9 задача 1\bin\Debug\Пр 9 задача 1.pdb
+C:\Users\pro-12\Desktop\cs22june\Пр 9 задача 1\obj\Debug\Пр 9 задача 1.exe
+C:\Users\pro-12\Desktop\cs22june\Пр 9 задача 1\obj\Debug\Пр 9 задача 1.pdb
