@@ -13,22 +13,31 @@ namespace Пр_9_задача_5
             String fragments = Console.ReadLine();
             String indexes = Console.ReadLine();
 
-            String[] arr = fragments.Split(' ');
-            String[] arr1 = indexes.Split(' ');
+            String[] frags = fragments.Split(' ');
+            String[] index = indexes.Split(' ');
 
             int[] num;
-            num = new int[arr.Length];
-            int i = Int32.Parse(arr[i]);
-            int y = Int32.Parse(arr1[y]);
+            num = new int[frags.Length];
+           
+            int i = 0;
 
-           
-           
+            for (int y = 0; y < index.Length; y++)
+
             {
-                
-                Console.WriteLine("Значение элемента на индексе " + i + " это " + arr[i]);
+                i = Int32.Parse(index[y]);
+
+                if (i < 0 || frags.Length - 1 < i)
+                {
+                    Console.WriteLine("Нет эллемента на индексе {}", i);
+
+                }
+                else
+
+                {
+                    Console.WriteLine("Значение элемента на индексе " + i + " это " + frags[i]);
+                }
+               
             }
-
-
         }
     }
 }

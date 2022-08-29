@@ -3,3 +3,9 @@ C:\Users\pro-12\Desktop\Анастасия пр7 НЕ УДАЛЯТЬ!!! С#\Пр
 C:\Users\pro-12\Desktop\Анастасия пр7 НЕ УДАЛЯТЬ!!! С#\Практика по Csharp\Пр2 задача 3\bin\Debug\Пр2 задача 3.pdb
 C:\Users\pro-12\Desktop\Анастасия пр7 НЕ УДАЛЯТЬ!!! С#\Практика по Csharp\Пр2 задача 3\obj\Debug\Пр2 задача 3.exe
 C:\Users\pro-12\Desktop\Анастасия пр7 НЕ УДАЛЯТЬ!!! С#\Практика по Csharp\Пр2 задача 3\obj\Debug\Пр2 задача 3.pdb
+C:\Users\pro-12\Desktop\cs22june\Пр2 задача 3\bin\Debug\Пр2 задача 3.exe.config
+C:\Users\pro-12\Desktop\cs22june\Пр2 задача 3\bin\Debug\Пр2 задача 3.exe
+C:\Users\pro-12\Desktop\cs22june\Пр2 задача 3\bin\Debug\Пр2 задача 3.pdb
+C:\Users\pro-12\Desktop\cs22june\Пр2 задача 3\obj\Debug\Пр2 задача 3.csprojAssemblyReference.cache
+C:\Users\pro-12\Desktop\cs22june\Пр2 задача 3\obj\Debug\Пр2 задача 3.exe
+C:\Users\pro-12\Desktop\cs22june\Пр2 задача 3\obj\Debug\Пр2 задача 3.pdb
