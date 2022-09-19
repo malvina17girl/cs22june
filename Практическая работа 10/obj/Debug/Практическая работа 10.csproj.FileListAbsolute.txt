@@ -1,0 +1,7 @@
+C:\Users\user\source\repos\Практическая работа 10\Практическая работа 10\bin\Debug\Практическая работа 10.exe.config
+C:\Users\user\source\repos\Практическая работа 10\Практическая работа 10\bin\Debug\Практическая работа 10.exe
+C:\Users\user\source\repos\Практическая работа 10\Практическая работа 10\bin\Debug\Практическая работа 10.pdb
+C:\Users\user\source\repos\Практическая работа 10\Практическая работа 10\obj\Debug\Практическая работа 10.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\Практическая работа 10\Практическая работа 10\obj\Debug\Практическая работа 10.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\Практическая работа 10\Практическая работа 10\obj\Debug\Практическая работа 10.exe
+C:\Users\user\source\repos\Практическая работа 10\Практическая работа 10\obj\Debug\Практическая работа 10.pdb
