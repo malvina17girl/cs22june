@@ -33,7 +33,28 @@ namespace Пр_10_задача_13
                 return;
             }
 
-            Console.WriteLine("на позиции В находится элемент" + arr[a]);
+            int count = 0;
+            int b = 0;
+            int c = 0;
+
+
+            for (int i = 0; i < arr.Length; i++)
+            {
+
+            b = Convert.ToInt32(arr[i]);
+            c= Convert.ToInt32(arr[a]);
+
+                if (b < c)
+
+                {
+                    count += 1;
+
+                }
+            }
+        
+
+            Console.WriteLine("на позиции В находится элемент " + arr[a]);
+            Console.WriteLine("колличество меньших " + count);
             Console.WriteLine("\n");
         }
     }

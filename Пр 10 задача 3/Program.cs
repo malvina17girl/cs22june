@@ -17,9 +17,9 @@ namespace Пр_10_задача_3
 
             if (b > a)
             {
-                int total2 = 1;
+                long total2 = 1;
 
-                for (int i = a; i <= b; i++)
+                for (long i = a; i <= b; i++)
 
                     total2 *= i;
 
@@ -29,9 +29,9 @@ namespace Пр_10_задача_3
             if (a > b)
             {
                 
-                int total = 1;
+                long total = 1;
 
-                for (int y = b; y <= a; y++)
+                for (long y = b; y <= a; y++)
 
                     total *= y;
 

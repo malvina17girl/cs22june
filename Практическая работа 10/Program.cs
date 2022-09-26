@@ -12,9 +12,16 @@ namespace Практическая_работа_10
         {
             int sum = 0;
 
-            for (int i = 100; i <= 500; i++)
+
            
-                 sum += i;
+
+            for (int i = 100; i <= 500; i++)
+
+            {
+                Console.Write(sum +" ");
+                sum += i;
+            
+            }
            
             Console.WriteLine("Ответ: "+ sum);
         }

@@ -18,28 +18,51 @@ namespace Пр_10_задача_17
         }
         static void Work(int[] arr)
         {
+            int sum = 0;
 
-            int size = 3;
 
             int i = 0;
-
-            int[][] arrays = arr.GroupBy(s => i++ / size).Select(s => s.ToArray()).ToArray();
-
-            
-
-            foreach (var array in arrays)
+            while (i < arr.Length-2)
+               
 
             {
 
-                Console.Write("{0} ", i);
+                sum = Convert.ToInt32(arr[i]) + Convert.ToInt32(arr[i + 1]) + Convert.ToInt32(arr[i + 2]);
+                Console.WriteLine("Группа " + arr[i] + "," + arr[i + 1] + "," + arr[i + 2] + "," + "сумма " + sum);
 
-
-
-                Console.Write("Группа ");
-                Console.Write(String.Join(",", array) + " сумма ", sum);
-                Console.WriteLine(" сумма ");
+                i += 3;
 
             }
+
+            if (arr.Length %3 == 2)
+            {
+                sum = Convert.ToInt32(arr[i]) + Convert.ToInt32(arr[i + 1]);
+                Console.WriteLine("Группа " + arr[i] + "," + arr[i + 1] + "сумма " + sum);
+            }
+            if (arr.Length % 3 == 1)
+            {
+                sum = Convert.ToInt32(arr[i]) ;
+                Console.WriteLine("Группа " + arr[i] + "," +  "сумма " + sum);
+            }
+
+            //int size = 3;
+
+            //int i = 0;
+
+            //int[][] arrays = arr.GroupBy(s => i++ / size).Select(s => s.ToArray()).ToArray();
+
+
+
+            //foreach (var array in arrays)
+
+            //{
+
+
+            //    Console.Write("Группа ");
+            //    Console.WriteLine(String.Join(",", array) + " сумма ");
+
+
+            //}
         }
     }
 }
