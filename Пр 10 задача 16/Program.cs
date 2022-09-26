@@ -23,32 +23,147 @@ namespace Пр_10_задача_16
         }
         static void Work(int[] arr)
         {
-            int min = 0;
-            int temp = 0;
-
-            for (int i = 0; i < arr.Length; i++)
+            int t = 0;
+            int a = 0;
+            int y = 0;
+            while (t <= arr.Length)
             {
-                min = i;
-
-                for (int j = i + 1; j < arr.Length; j++)
+                Console.Write("Шаг {0} ",t);
+                for (int i = 1; i < arr.Length; i++)
                 {
-                    if (arr[j] < arr[min])
+                    int n = 0;
+
+                    if (arr[i - 1] <= arr[i])
                     {
-                        min = j;
+
+                        Console.Write("Оставляем {0} и {1} ", arr[i - 1], arr[i]);
+
                     }
+                    else
+                    {
+
+                        Console.Write("Меняем {0} и {1} ", arr[i - 1], arr[i]);
+                        n = arr[i - 1];
+                        arr[i - 1] = arr[i];
+                        arr[i] = n;
+
+                    }
+
                 }
-                temp = arr[min];
-                arr[min] = arr[i];
-                arr[i] = temp;
-            
-            }
-            for (int i = 0; i < arr.Length; i++)
-            {
-                Console.Write(arr[i]);
+                t++;
+                Console.Write("\n");
                
             }
+            while (y<= arr.Length - 1)
+            {
+                Console.Write(arr[a]);
+                //Console.WriteLine("{0}", y);
+                a++;
+                y++;
+              
+            }
+            Console.Write("\n");
 
-             Console.WriteLine("\n");
+
+            //Console.Write("Шаг 1 ");
+            //for (int i = 1; i < arr.Length; i++)
+            //{
+            //    int n = 0;
+
+            //    if (arr[i - 1] <= arr[i] )
+            //    {
+
+            //        Console.Write("Оставляем {0} и {1} ", arr[i - 1], arr[i]);
+
+            //    }
+            //    else
+            //    {
+
+            //        Console.Write("Меняем {0} и {1} ", arr[i - 1], arr[i]);
+            //        n = arr[i - 1];
+            //        arr[i - 1] = arr[i];
+            //        arr[i] = n;
+
+            //    }
+
+            //}
+            //Console.Write("\n");
+            //Console.Write("Шаг 2 ");
+            //for (int i = 1; i < arr.Length; i++)
+            //{
+            //    int n = 0;
+
+            //    if (arr[i - 1] <= arr[i])
+            //    {
+
+            //        Console.Write("Оставляем {0} и {1} ", arr[i - 1], arr[i]);
+
+            //    }
+            //    else
+            //    {
+
+            //        Console.Write("Меняем {0} и {1} ", arr[i - 1], arr[i]);
+            //        n = arr[i - 1];
+            //        arr[i - 1] = arr[i];
+            //        arr[i] = n;
+
+            //    }
+
+            //}
+            //Console.Write("\n");
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+            //int min = 0;
+            //int temp = 0;
+
+            //for (int i = 0; i < arr.Length; i++)
+            //{
+            //    min = i;
+
+            //    for (int j = i + 1; j < arr.Length; j++)
+            //    {
+            //        if (arr[j] < arr[min])
+            //        {
+            //            min = j;
+            //        }
+            //    }
+            //    temp = arr[min];
+            //    arr[min] = arr[i];
+            //    arr[i] = temp;
+
+            //}
+            //for (int i = 0; i < arr.Length; i++)
+            //{
+            //    Console.Write(arr[i]);
+
+            //}
+
+            // Console.WriteLine("\n");
         }  
     }
 }

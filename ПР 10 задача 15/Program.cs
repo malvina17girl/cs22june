@@ -10,15 +10,14 @@ namespace ПР_10_задача_15
     {
         static void Main(string[] args)
         {
+            Work(new int[] { 1, 2, 3, 4, 1, 2 },1,33);
+            Work(new int[] { 1, 2, 3, 4, 1, 2 },3,55);
+            Work(new int[] { 1, 2, 3, 4, 1, 2 },5,1);
 
-           
-            Console.WriteLine("вводите x");
-            int x = int.Parse(Console.ReadLine());
-            Console.WriteLine("вводите y");
-            int y = int.Parse(Console.ReadLine());
-            int[] arr = { 1, 2, 3, 4, 1, 2 };
+        }
 
-
+        static void Work(int[] arr, int x, int y)
+        {
             int a = 0;
             while (a <= arr.Length - 1)
             {
@@ -29,9 +28,11 @@ namespace ПР_10_задача_15
                 Console.Write("{0} ", arr[a]);
                 a++;
             }
-
-
-
+            Console.WriteLine("\n");
         }
+
+
+
+        
     }
 }

@@ -44,7 +44,7 @@ namespace _26_09_2022
 
             }
             Console.WriteLine("Значения отсортированы по возрастанию");
-            return;
+           
 
         }
     }

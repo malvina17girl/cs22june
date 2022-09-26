@@ -5,3 +5,10 @@ C:\Users\user\source\repos\26 09 2022\ПР 10 задача 15\obj\Debug\ПР 10 
 C:\Users\user\source\repos\26 09 2022\ПР 10 задача 15\obj\Debug\ПР 10 задача 15.csproj.CoreCompileInputs.cache
 C:\Users\user\source\repos\26 09 2022\ПР 10 задача 15\obj\Debug\ПР 10 задача 15.exe
 C:\Users\user\source\repos\26 09 2022\ПР 10 задача 15\obj\Debug\ПР 10 задача 15.pdb
+C:\Users\adm\Desktop\cs22june\ПР 10 задача 15\bin\Debug\ПР 10 задача 15.exe.config
+C:\Users\adm\Desktop\cs22june\ПР 10 задача 15\bin\Debug\ПР 10 задача 15.exe
+C:\Users\adm\Desktop\cs22june\ПР 10 задача 15\bin\Debug\ПР 10 задача 15.pdb
+C:\Users\adm\Desktop\cs22june\ПР 10 задача 15\obj\Debug\ПР 10 задача 15.csprojAssemblyReference.cache
+C:\Users\adm\Desktop\cs22june\ПР 10 задача 15\obj\Debug\ПР 10 задача 15.csproj.CoreCompileInputs.cache
+C:\Users\adm\Desktop\cs22june\ПР 10 задача 15\obj\Debug\ПР 10 задача 15.exe
+C:\Users\adm\Desktop\cs22june\ПР 10 задача 15\obj\Debug\ПР 10 задача 15.pdb
