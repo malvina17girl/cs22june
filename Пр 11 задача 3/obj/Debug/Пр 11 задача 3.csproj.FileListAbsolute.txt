@@ -1,0 +1,7 @@
+C:\Users\user\source\repos\ПР 11 задача 1\Пр 11 задача 3\bin\Debug\Пр 11 задача 3.exe.config
+C:\Users\user\source\repos\ПР 11 задача 1\Пр 11 задача 3\bin\Debug\Пр 11 задача 3.exe
+C:\Users\user\source\repos\ПР 11 задача 1\Пр 11 задача 3\bin\Debug\Пр 11 задача 3.pdb
+C:\Users\user\source\repos\ПР 11 задача 1\Пр 11 задача 3\obj\Debug\Пр 11 задача 3.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\ПР 11 задача 1\Пр 11 задача 3\obj\Debug\Пр 11 задача 3.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\ПР 11 задача 1\Пр 11 задача 3\obj\Debug\Пр 11 задача 3.exe
+C:\Users\user\source\repos\ПР 11 задача 1\Пр 11 задача 3\obj\Debug\Пр 11 задача 3.pdb

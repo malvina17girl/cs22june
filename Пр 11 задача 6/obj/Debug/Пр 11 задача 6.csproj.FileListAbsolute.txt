@@ -1,0 +1,14 @@
+C:\Users\user\source\repos\ПР 11 задача 1\Пр 11 задача 6\bin\Debug\Пр 11 задача 6.exe.config
+C:\Users\user\source\repos\ПР 11 задача 1\Пр 11 задача 6\bin\Debug\Пр 11 задача 6.exe
+C:\Users\user\source\repos\ПР 11 задача 1\Пр 11 задача 6\bin\Debug\Пр 11 задача 6.pdb
+C:\Users\user\source\repos\ПР 11 задача 1\Пр 11 задача 6\obj\Debug\Пр 11 задача 6.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\ПР 11 задача 1\Пр 11 задача 6\obj\Debug\Пр 11 задача 6.exe
+C:\Users\user\source\repos\ПР 11 задача 1\Пр 11 задача 6\obj\Debug\Пр 11 задача 6.pdb
+C:\Users\user\source\repos\ПР 11 задача 1\Пр 11 задача 6\obj\Debug\Пр 11 задача 6.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\31022\Пр 11 задача 6\bin\Debug\Пр 11 задача 6.exe.config
+C:\Users\user\source\repos\31022\Пр 11 задача 6\bin\Debug\Пр 11 задача 6.exe
+C:\Users\user\source\repos\31022\Пр 11 задача 6\bin\Debug\Пр 11 задача 6.pdb
+C:\Users\user\source\repos\31022\Пр 11 задача 6\obj\Debug\Пр 11 задача 6.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\31022\Пр 11 задача 6\obj\Debug\Пр 11 задача 6.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\31022\Пр 11 задача 6\obj\Debug\Пр 11 задача 6.exe
+C:\Users\user\source\repos\31022\Пр 11 задача 6\obj\Debug\Пр 11 задача 6.pdb
