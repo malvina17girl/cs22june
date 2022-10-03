@@ -28,26 +28,38 @@ namespace Пр_11_задача_4
         static void Letters(string[] arr)
         {
             string x = "x";
-            
+            int count = 0;
 
-            for (int i = 0; i <= arr.Length - 1; i++)
+            for (int i = 0; i < arr.Length; i++)
             {
+                
                
-                if (arr[i] == x)
+                if (arr[i] != x)
                 {
-                   
-                     Console.WriteLine("Символ 'х' найден на позиции {0} ", i);
 
+                    count ++;
+
+                   
+                    if (arr.Length == count)
+                    {
+
+                        Console.WriteLine("Символ 'х' отсутствует ");
+                        //return;
+                    }
+        
                 }
                
                 else
+                
                 {
-                    Console.WriteLine("Символ 'х' отсутствует ");
 
+                    Console.WriteLine("Символ 'х' найден на позиции {0} ", i);
+                    return;
                 }
 
-
+               
             }
+            //Console.WriteLine("\n ");
 
         }
     }

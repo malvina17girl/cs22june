@@ -16,6 +16,13 @@ namespace _3._10._22
             Letter(new char[] { 'i' });
             Letter(new char[] { 'z' });
 
+            Work('a');
+            Work('d');
+            Work('h');
+            Work('i');
+            Work('z');
+
+
         }
         static void Letter(char[] arr)
         {
@@ -39,7 +46,28 @@ namespace _3._10._22
 
 
             }
+
         }
+
+        static void Work(char a)
+        {
+            for (char letter = 'a'; letter <= 'h'; letter++)
+            {
+
+                if (a == letter)
+                {
+                    Console.WriteLine("{0} найдено", letter);
+
+                }
+                else
+                {
+                    Console.WriteLine(letter);
+
+                }
+
+            }
+        }
+
     }
 }
 

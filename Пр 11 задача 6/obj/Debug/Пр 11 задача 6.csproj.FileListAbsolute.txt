@@ -12,3 +12,9 @@ C:\Users\user\source\repos\31022\Пр 11 задача 6\obj\Debug\Пр 11 зад
 C:\Users\user\source\repos\31022\Пр 11 задача 6\obj\Debug\Пр 11 задача 6.csproj.CoreCompileInputs.cache
 C:\Users\user\source\repos\31022\Пр 11 задача 6\obj\Debug\Пр 11 задача 6.exe
 C:\Users\user\source\repos\31022\Пр 11 задача 6\obj\Debug\Пр 11 задача 6.pdb
+C:\Users\adm\Desktop\cs22june\Пр 11 задача 6\bin\Debug\Пр 11 задача 6.exe.config
+C:\Users\adm\Desktop\cs22june\Пр 11 задача 6\bin\Debug\Пр 11 задача 6.exe
+C:\Users\adm\Desktop\cs22june\Пр 11 задача 6\bin\Debug\Пр 11 задача 6.pdb
+C:\Users\adm\Desktop\cs22june\Пр 11 задача 6\obj\Debug\Пр 11 задача 6.csproj.CoreCompileInputs.cache
+C:\Users\adm\Desktop\cs22june\Пр 11 задача 6\obj\Debug\Пр 11 задача 6.exe
+C:\Users\adm\Desktop\cs22june\Пр 11 задача 6\obj\Debug\Пр 11 задача 6.pdb

@@ -10,69 +10,71 @@ namespace Пр_11_задача_6
     {
         static void Main(string[] args)
         {
-            Letter("a".Split(' '));
-            Letter("b".Split(' '));
-            Letter("d".Split(' '));
-            Letter("h".Split(' '));
-            Letter("i".Split(' '));
-            //Letter(new char[] { 'a' });
-            //Letter(new char[] { 'b' });
-            //Letter(new char[] { 'd' });
-            //Letter(new char[] { 'h' });
-            //Letter(new char[] { 'i' });
+            //Letter("a".Split(' '));
+            //Letter("b".Split(' '));
+            //Letter("d".Split(' '));
+            //Letter("h".Split(' '));
+            //Letter("i".Split(' '));
+            Letter('a');
+            Letter('b');
+            Letter('d');
+            Letter('h');
+            Letter('i');
         }
-        static void Letter(string[] arr)
+        static void Letter(char a)
         {
             //string data = ("a, b, c, d, e, f, g, h");
             //String[] arr1 = data.Split(',');
 
-            string x = arr[0];
-            
-            
-            for (int i = 0; i < arr.Length; i++)
+            for (char letter = 'a'; letter <= 'h'; letter++)
             {
-                if (arr[i] == "a")
+                Console.Write("{0}", letter);
+                
+
+                if (a == letter)
                 {
-                    Console.Write("a");
+                    Console.Write("\n");
+
+                    return; 
+
                 }
-                if (arr[i] == "b")
-                {
-                    Console.Write("ab");
-                }
-                if (arr[i] == "d")
-                {
-                    Console.Write("abcd");
-                }
-                if (arr[i] == "h")
-                {
-                    Console.Write("abcdefgh");
-                }
-                if (arr[i] == "i")
-                {
-                    Console.Write("abcdefgh");
-                }
-            }    
+                
+          
+            }
+           
 
 
-                //while (i <= arr1.Length - 1)
-                //{
-
-
-                //if (x == arr1[i])
-                //{
-                //Console.Write("{0}", arr1[i]);
-                //i++;
-                //}
-
-                //else
-                //{
-                //    return;
-                //}
+            //for (int i = 0; i < arr.Length; i++)
+            //{
+            //    if (arr[i] == "a")
+            //    {
+            //        Console.Write("a");
+            //    }
+            //    if (arr[i] == "b")
+            //    {
+            //        Console.Write("ab");
+            //    }
+            //    if (arr[i] == "d")
+            //    {
+            //        Console.Write("abcd");
+            //    }
+            //    if (arr[i] == "h")
+            //    {
+            //        Console.Write("abcdefgh");
+            //    }
+            //    if (arr[i] == "i")
+            //    {
+            //        Console.Write("abcdefgh");
+            //    }
+            //}    
 
 
 
 
-                Console.Write("\n");
+
+
+
+
         }
     }
 }
