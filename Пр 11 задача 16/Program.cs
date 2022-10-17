@@ -25,11 +25,12 @@ namespace Пр_11_задача_16
            
             int min = arr[0];
             int t = 0;
-            while (t < arr.Length)
-            {
+
+            //while (t < arr.Length)
+            //{
                 for (int i = 1; i < arr.Length; i++)
                 {
-                    Console.WriteLine("Сравниваю {0} и {1}", arr[i-1], arr[i]);
+                    Console.WriteLine("Сравниваю {0} и {1}", min, arr[i]);
 
                     if (arr[i] < min)
                     {
@@ -38,8 +39,8 @@ namespace Пр_11_задача_16
                     }
                     
                 }
-                t++;
-            }
+            //    t++;
+            //}
             Console.WriteLine("В массиве минимальный элемент {0}", min) ;
             Console.WriteLine("---------------------------------------");
         }

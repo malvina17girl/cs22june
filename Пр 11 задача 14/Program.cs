@@ -25,7 +25,7 @@ namespace Пр_11_задача_14
                 for (int j = 0; j < arr2.Length; j++)
                 {
 
-                    if (arr1[i] != arr2[j]) 
+                    if (arr1[i] != arr2[j])
                     {
                         arr3[y] = arr1[i];
                         y++;

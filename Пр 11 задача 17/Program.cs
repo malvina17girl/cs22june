@@ -32,14 +32,15 @@ namespace Пр_11_задача_17
                 if (arr[i] < min)
                 {
                     min = arr[i];
+                    Console.WriteLine("Промежуточное минимальное {0}", min);
                 }
                 if (arr[i] > max)
                 {
                     max = arr[i];
+                    Console.WriteLine("Промежуточное максимальное {0}", max);
                 }
 
-                Console.WriteLine("Промежуточное минимальное {0}", min);
-                Console.WriteLine("Промежуточное максимальное {0}", max);
+              
                
             }
             dif = max - min;

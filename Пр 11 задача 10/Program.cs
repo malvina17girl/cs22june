@@ -11,17 +11,18 @@ namespace Пр_11_задача_10
         static void Main(string[] args)
         {
             //Letters("a s d f a".Split(' '), "a s d f a".Split(' '));
-            Letters("a s d f a".Split(' '), "a s d f g".Split(' '));
-            Letters("qwerty asdfgh zxcvb".Split(' '), "qwerty asdfgh asdfgh".Split(' '));
-            Letters("qaz wsx edc".Split(' '), "wsx edc qaz".Split(' '));
+            //Letters("a s d f a".Split(' '), "a s d f g".Split(' '));
+            //Letters("qwerty asdfgh zxcvb".Split(' '), "qwerty asdfgh asdfgh".Split(' '));
+            //Letters("qaz wsx edc".Split(' '), "wsx edc qaz".Split(' '));
             Letters("qaz wsx edc".Split(' '), "qaz wsx edc rfv".Split(' '));
-            //Letters("qaz wsx edc rfv tgb".Split(' '), "qaz wsx edc rfv".Split(' '));
-            //Letters("qaz wsx edc".Split(' '), "qaz tgb ujm yhn".Split(' '));
+            Letters("qaz wsx edc rfv tgb".Split(' '), "qaz wsx edc rfv".Split(' '));
+            Letters("qaz wsx edc".Split(' '), "qaz tgb ujm yhn".Split(' '));
             //Letters("qaz tgb ujm yhn".Split(' '), "qaz wsx edc".Split(' '));
         }
         static void Letters(string[] arr1, string[] arr2)
         {
 
+            
             if (arr1.Length == arr2.Length)
             {
                 for (int i = 0; i < arr1.Length; i++)
@@ -42,6 +43,11 @@ namespace Пр_11_задача_10
                         Console.WriteLine("Массивы начинают различаться на индексе {0} ", i);
                         return;
                     }
+                    else
+                    {
+                        i = arr2.Length ;
+                        Console.WriteLine("Массивы начинают различаться на индексе {0} ", i);
+                    }
                 }
             }
             if (arr1.Length < arr2.Length)
@@ -53,8 +59,14 @@ namespace Пр_11_задача_10
                         Console.WriteLine("Массивы начинают различаться на индексе {0} ", i);
                         return;
                     }
+                    else
+                    {
+                        i = arr1.Length ;
+                        Console.WriteLine("Массивы начинают различаться на индексе {0} ", i);
+                    }
                 }
             }
+            Console.WriteLine("\n ");
         }
     }
 }

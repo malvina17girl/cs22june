@@ -13,7 +13,7 @@ namespace Пр_11_задача_8
             Letter(new char[] { 'q', 'w', 'e', 'e', 'q', 'w' });
             Letter(new char[] { 'q', 'w', 'e', 'r', 'q', 'w', 'e', 'r', 'q', 'w', 'e' });
             Letter(new char[] { 'e', 'w', 'w', 'w', 'w', 'w' });
-            Letter(new char[] { 'r', 'r', 'r', 'r', 'r', 'r', });
+            //Letter(new char[] { 'r', 'r', 'r', 'r', 'r', 'r', });
         }
         static void Letter(char[] arr)
         {
@@ -28,8 +28,10 @@ namespace Пр_11_задача_8
             int countb = 0;
             int countc = 0;
             int countd = 0;
+            int n = 0;
+            int k = 0;
 
-            char[] arr3 = new char[arr.Length];
+            int[] arr3 = new int[arr.Length];
 
             while (i < arr.Length)
             {
@@ -37,39 +39,114 @@ namespace Пр_11_задача_8
                 if (a == arr[i])
                 {
                     counta++;
-
-                    arr[i] = Convert.ToChar(counta);
-
-                    //arr3[y] = arr[i];
-                    //y++;
-                    Console.WriteLine(arr[i]);
+             
                 }
-                //    if (b == arr[i])
-                //    {
-                //        countb++;
-                //        arr[i] = Convert.ToChar(countb);
-                //        arr3[y] = arr[i];
-                //        y++;
-                //    }
-                //    if (c == arr[i])
-                //    {
-                //        countc++;
-                //        arr[i] = Convert.ToChar(countc);
-                //        arr3[y] = arr[i];
-                //        y++;
-                //    }
-                //    if (d == arr[i])
-                //    {
-                //        arr[i] = Convert.ToChar(countd);
-                //        arr3[y] = arr[i];
-                //        y++;
-                //    }
+                
+                i++;
+                y++;
+            }
+            
+            while (n < arr.Length)
+            {
+                if (a == arr[n])
+                {
+                    arr3[k] = counta;
+                    
 
-                //    i++;
+                }
+                n++;
+                k++;
             }
 
+            i = 0;y = 0;k = 0; n=0;
+            while (i < arr.Length)
+            {
 
-            //    Console.WriteLine(arr3);
+                if (b == arr[i])
+                {
+                    countb++;
+
+                }
+               
+
+                i++;
+                y++;
+            }
+            
+            while (n < arr.Length)
+            {
+                if (b == arr[n])
+                {
+                    arr3[k] = countb;
+                   
+
+                }
+                n++;
+                k++;
+
+            }
+            i = 0; y = 0; k = 0; n = 0;
+
+            while (i < arr.Length)
+            {
+                if (c == arr[i])
+                {
+                    countc++;
+
+                }
+
+
+                i++;
+                y++;
+            }
+            
+            while (n < arr.Length)
+            {
+                if (c == arr[n])
+                {
+                    arr3[k] = countc;
+                 
+
+                }
+                n++;
+                k++;
+
+            }
+            i = 0; y = 0; k = 0; n = 0;
+
+            while (i < arr.Length)
+            {
+                if (d == arr[i])
+                {
+                    countd++;
+
+                }
+
+
+                i++;
+                y++;
+            }
+
+            while (n < arr.Length)
+            {
+                if (d == arr[n])
+                {
+                    arr3[k] = countd;
+                    
+
+                }
+                n++;
+                k++;
+
+            }
+            int q = 0;
+            while (q<=arr.Length-1)
+            {
+                Console.Write(arr3[q]);
+                q++;
+            }
+            Console.WriteLine("\n");
+            Console.WriteLine("______________________");
         }
     }
     

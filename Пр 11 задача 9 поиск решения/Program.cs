@@ -15,28 +15,28 @@ namespace Пр_11_задача_9_поиск_решения
         static void Letter(char[] arr1, char[] arr2)
         {
             int w = Convert.ToInt32(arr1.Length);
-            //w += 2;
             int n = 0;
             int k = 0;
             int m = 0;
             int h = Convert.ToInt32(arr2.Length);
             int i = 0;
-            int y = 0;
+            
             Console.Write(" ");
             while (w > n)
             {
                 Console.Write(" "+arr1[n]);
                 n++;
             }
+
             Console.WriteLine(" ");
-            //Console.Write("|");
+           
             while ( h>i)
             {
                 Console.Write(arr2[i]);
 
                 for (k = 0; k < w; k++)
                 {
-                    if (arr1[y] == arr2[i])
+                    if (arr1[k] == arr2[i])
                     {
                         Console.Write(" "+"+");
                     }
@@ -44,12 +44,12 @@ namespace Пр_11_задача_9_поиск_решения
                     {
                         Console.Write(" "+"*", arr2[i]);
                     }
-                    //Console.Write(" "+"+", k);  
+                  
                 }
                 Console.Write("|");
                 Console.Write("\n");
                 i++;
-                y++;
+
             }
             
             while (w > m)

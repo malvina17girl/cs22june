@@ -3,3 +3,9 @@ C:\Users\pro-12\Desktop\cs22june\Пр 6 задача 22\bin\Debug\Пр 6 зад�
 C:\Users\pro-12\Desktop\cs22june\Пр 6 задача 22\bin\Debug\Пр 6 задача 22.pdb
 C:\Users\pro-12\Desktop\cs22june\Пр 6 задача 22\obj\Debug\Пр 6 задача 22.exe
 C:\Users\pro-12\Desktop\cs22june\Пр 6 задача 22\obj\Debug\Пр 6 задача 22.pdb
+C:\Users\adm\Desktop\cs22june\Пр 6 задача 22\bin\Debug\Пр 6 задача 22.exe.config
+C:\Users\adm\Desktop\cs22june\Пр 6 задача 22\bin\Debug\Пр 6 задача 22.exe
+C:\Users\adm\Desktop\cs22june\Пр 6 задача 22\bin\Debug\Пр 6 задача 22.pdb
+C:\Users\adm\Desktop\cs22june\Пр 6 задача 22\obj\Debug\Пр 6 задача 22.csproj.CoreCompileInputs.cache
+C:\Users\adm\Desktop\cs22june\Пр 6 задача 22\obj\Debug\Пр 6 задача 22.exe
+C:\Users\adm\Desktop\cs22june\Пр 6 задача 22\obj\Debug\Пр 6 задача 22.pdb
