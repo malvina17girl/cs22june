@@ -1,0 +1,7 @@
+C:\Users\user\source\repos\31022\Пр 11 задача 16\bin\Debug\Пр 11 задача 16.exe.config
+C:\Users\user\source\repos\31022\Пр 11 задача 16\bin\Debug\Пр 11 задача 16.exe
+C:\Users\user\source\repos\31022\Пр 11 задача 16\bin\Debug\Пр 11 задача 16.pdb
+C:\Users\user\source\repos\31022\Пр 11 задача 16\obj\Debug\Пр 11 задача 16.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\31022\Пр 11 задача 16\obj\Debug\Пр 11 задача 16.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\31022\Пр 11 задача 16\obj\Debug\Пр 11 задача 16.exe
+C:\Users\user\source\repos\31022\Пр 11 задача 16\obj\Debug\Пр 11 задача 16.pdb

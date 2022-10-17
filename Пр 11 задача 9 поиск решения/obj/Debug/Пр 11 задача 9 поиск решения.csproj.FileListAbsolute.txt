@@ -1,0 +1,7 @@
+C:\Users\user\source\repos\31022\Пр 11 задача 9 поиск решения\bin\Debug\Пр 11 задача 9 поиск решения.exe.config
+C:\Users\user\source\repos\31022\Пр 11 задача 9 поиск решения\bin\Debug\Пр 11 задача 9 поиск решения.exe
+C:\Users\user\source\repos\31022\Пр 11 задача 9 поиск решения\bin\Debug\Пр 11 задача 9 поиск решения.pdb
+C:\Users\user\source\repos\31022\Пр 11 задача 9 поиск решения\obj\Debug\Пр 11 задача 9 поиск решения.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\31022\Пр 11 задача 9 поиск решения\obj\Debug\Пр 11 задача 9 поиск решения.exe
+C:\Users\user\source\repos\31022\Пр 11 задача 9 поиск решения\obj\Debug\Пр 11 задача 9 поиск решения.pdb
+C:\Users\user\source\repos\31022\Пр 11 задача 9 поиск решения\obj\Debug\Пр 11 задача 9 поиск решения.csproj.AssemblyReference.cache
