@@ -1,0 +1,7 @@
+C:\Users\user\source\repos\31022\Пр 7 задача 9\obj\Debug\Пр 7 задача 9.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\31022\Пр 7 задача 9\bin\Debug\Пр 7 задача 9.exe.config
+C:\Users\user\source\repos\31022\Пр 7 задача 9\bin\Debug\Пр 7 задача 9.exe
+C:\Users\user\source\repos\31022\Пр 7 задача 9\bin\Debug\Пр 7 задача 9.pdb
+C:\Users\user\source\repos\31022\Пр 7 задача 9\obj\Debug\Пр 7 задача 9.exe
+C:\Users\user\source\repos\31022\Пр 7 задача 9\obj\Debug\Пр 7 задача 9.pdb
+C:\Users\user\source\repos\31022\Пр 7 задача 9\obj\Debug\Пр 7 задача 9.csproj.AssemblyReference.cache
